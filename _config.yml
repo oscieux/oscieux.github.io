@@ -5,5 +5,5 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   
- gems:
+gems:
   - jekyll-sitemap
